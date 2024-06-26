@@ -4,6 +4,7 @@
 
 - 🔭 Trabalhando na area de segurança eletronica 
 - 🌱 Estudando JavaScript
+- 
 - <div>
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-fernando-de-paula-952958246">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
