@@ -1,3 +1,5 @@
+# ![snake gif](https://github.com/AFernando/AFernando/blob/output/github-contribution-grid-snake.gif)
+
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Eu+sou+Fernando!;" />
 </h1>
@@ -14,6 +16,5 @@
   ##
   <div>
    <a href="https://www.linkedin.com/in/ant%C3%B4nio-fernando-de-paula-952958246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <div>
-# ![snake gif](https://github.com/AFernando/AFernando/blob/output/github-contribution-grid-snake.gif)
- </div>
+
+
