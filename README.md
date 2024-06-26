@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Eu+sou+Fernando!;" />
 </h1>
 
- 👨🏽‍🎓 EStudante de Programação
+ 👨🏽‍🎓 Estudante de Programação
  🌱 Estudando JavaScript
   
 - <div>
