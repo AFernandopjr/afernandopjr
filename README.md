@@ -14,4 +14,4 @@
   <div>
    <a href="https://www.linkedin.com/in/ant%C3%B4nio-fernando-de-paula-952958246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-![Snake animation](https://github.com/AFernandopjr/AFernandopjr/blob/output/github-contribution-grid-snake.svg)
+# ![snake gif](https://github.com/AFernando/AFernando/blob/output/github-contribution-grid-snake.gif)
