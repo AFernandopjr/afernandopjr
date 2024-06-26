@@ -3,7 +3,8 @@
 </h1>
 
  👨🏽‍🎓 Estudante de Programação
- 🌱 Estudando JavaScript
+ 
+  Atualmente estudando JavaScript
   
 - <div>
 
